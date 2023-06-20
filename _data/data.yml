@@ -5,25 +5,25 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
+  email: filipesoares1227@gmail.com
+  phone: (84) 98628-6998
   website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
+  linkedin: --
+  github: filipesrs
+  gitlab: --
+  bitbucket: --
+  twitter: --
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
+  - idiom: Portuguese
     level: Native
+  - idiom: English
+    level: Intermediary
   - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
+    level: Basic
 
 interests:
   - name: Climbing
